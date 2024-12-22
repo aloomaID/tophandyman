@@ -2,4 +2,4 @@
 Allow: /
 
 
-Sitemap: https://Tophandyman.pro/sitemap_index.xml
+Sitemap: https://tophandyman.pro/sitemap_index.xml
